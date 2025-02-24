@@ -1,0 +1,6 @@
+# 地区检测
+DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
+# Giffgaff
+IP-CIDR,87.194.0.0/16
+DOMAIN-SUFFIX, giffgaff.com
+DOMAIN-SUFFIX, giffgaff.design
